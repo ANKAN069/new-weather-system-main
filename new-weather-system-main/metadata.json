@@ -1,0 +1,7 @@
+{
+  "name": "Today's Weather",
+  "description": "A 3D immersive weather prediction and climate change monitoring application utilizing Gemini AI for environmental insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
